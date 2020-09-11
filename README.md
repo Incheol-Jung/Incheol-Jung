@@ -4,6 +4,6 @@
 	
 </div>
 
-![Incheol's github stats](https://github-readme-stats.vercel.app/api?username=Incheol-Jung&show_icons=true&theme=default)
+![Incheol's github stats](https://github-readme-stats.vercel.app/api?username=Incheol-Jung&show_icons=true&theme=prussian)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incheol-Jung&hide=html,CSS)](https://github.com/anuraghazra/github-readme-stats) -->
