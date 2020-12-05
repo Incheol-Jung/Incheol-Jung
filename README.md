@@ -5,11 +5,7 @@
 	
 </div> -->
 
-<div align="center">
-	
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&row=1&column=6&margin-w=10)
 
-</div>
 
 
 <br/>
@@ -17,6 +13,14 @@
 <div align="center">
 
 ![Incheol's github stats](https://github-readme-stats.vercel.app/api?username=Incheol-Jung&show_icons=true&theme=vue-dark)
+
+</div>
+
+<br/>
+
+<div align="center">
+	
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&row=1&column=6&margin-w=10)
 
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incheol-Jung&hide=html,CSS)](https://github.com/anuraghazra/github-readme-stats) -->
