@@ -7,7 +7,7 @@
 
 <div>
 	
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&row=2&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&row=1&column=6)
 
 </div>
 
