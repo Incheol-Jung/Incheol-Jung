@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Incheol's github stats](https://github-readme-stats.vercel.app/api?username=Incheol-Jung&show_icons=true&theme=vue-dark)
+![Incheol's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Incheol-Jung&show_icons=true&theme=vue-dark)
 
 </div>
 
